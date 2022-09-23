@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": "5d25f4b4-df34-4436-b70c-52d69b449a65",
+      "name": "learning rest api",
+      "description": "learning with Fazt Code"
+    },
+    {
+      "id": "0ff2d074-501f-4afe-9bf5-1f519f1f8128",
+      "name": "study",
+      "description": "keep studying about apis"
+    }
+  ]
+}
